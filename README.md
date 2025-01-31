@@ -38,6 +38,7 @@ src/<br>
 ├── context/           # Context providers<br>
 ├── services/          # API and Firebase services<br>
 ├── assets/           # Images and static files<br>
+├── layouts/           # Layouts<br>
 ├── pages/            # Main page components<br>
 └── text/             # Character data and content<br>
 
