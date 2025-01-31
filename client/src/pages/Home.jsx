@@ -29,7 +29,7 @@ const Home = () => {
               className="bg-secondary hover:bg-secondary-dark drop-shadow-[6px_6px_6px_rgba(255,255,255,1)]"
             />
             <ButtonCTA
-              to="/about"
+              to="/newabout"
               text="Learn More About Us"
               className="bg-primary hover:bg-primary-dark drop-shadow-[6px_6px_6px_rgba(255,255,255,1)]"
             />
